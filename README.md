@@ -37,7 +37,7 @@ A sophisticated dashboard for real-time analysis and comparison of Large Languag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/llm-performance-analyzer.git
+   git clone https://github.com/Hampusjohr/llm_performance_analyzer_and_switcher
    ```
 
 2. Navigate to the project directory:
@@ -89,4 +89,4 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ---
 
-Made with ❤️ by [Your Name]
+Made by Hampus Rees
