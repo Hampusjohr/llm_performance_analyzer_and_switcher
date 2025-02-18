@@ -89,4 +89,4 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ---
 
-Made by Hampus Rees
+Made by Hampus Johansson
